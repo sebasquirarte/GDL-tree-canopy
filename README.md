@@ -3,7 +3,7 @@
 ## About
 Tree canopy height maps in Guadalajara, Jalisco, Mexico. Can be used to create detailed tree density maps based any set of coordinates. 
 
-Inspired by Milos Agathon (Milos Makes Maps). Check out his work at: 
+Code adapted from Milos Agathon (Milos Makes Maps). Check out his work at: 
 - https://github.com/milos-agathon/tree-height-maps-meta?tab=readme-ov-file
 - https://www.youtube.com/@milos-makes-maps
 
